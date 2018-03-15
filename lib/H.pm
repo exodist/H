@@ -62,7 +62,7 @@ To compensate you often must use one of these:
     { foo => [$bar->foo] }
     { foo => {$bar->foo} }
 
-This module makes it trivial to concisely make your expections, desires, and
+This module makes it trivial to concisely make your expectations, desires, and
 reality all align.
 
 =head1 SYNOPSIS
